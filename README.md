@@ -7,7 +7,7 @@ These data are used in OCR-ing Optical character recognition or optical characte
 
 ### How to use them ?
 You can use them with tesseract engine or i would recommend you to use a third party software if you are a beginner like me:
-1. [Download tesseract](https://github.com/tesseract-ocr/tesseract/wiki)
+1. [Download tesseract](https://github.com/tesseract-ocr/tesseract/wiki) if you like coding or,
 2. Install a third party software. Tesseract doesn't have a built-in GUI, but there are several available from the 
 [3rd party page](https://tesseract-ocr.github.io/tessdoc/User-Projects-%E2%80%93-3rdParty). I used gImageReader, it worked well for me.
 3. Copy these trained data from any of these respositories and paste it in tessdata directory of gimagereader. Again click on top left corner of gimagereader redetect language and sat (Santali) language will appear. 
